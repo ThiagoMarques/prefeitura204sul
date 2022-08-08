@@ -9,7 +9,6 @@ $(function () {
 
   $.get(url).then(function (response) {
     let data = response.data
-    console.log('data', data)
     let content = '<div class="row row-feed">'
 
     for (p = 0; p < data.length; p++) {

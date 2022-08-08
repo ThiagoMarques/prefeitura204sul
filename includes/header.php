@@ -4,32 +4,49 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <name="keywords"
-        content="prefeitura, 204sul, prefeitura204sul, asa sul, brasília 204 sul, prefeitura 204 sul, site 204 sul, site 204 brasília, 204 sul brasília, 204 sul prefeitura">
-        <meta name="description" content="A prefeitura da 204 sul é uma associação de moradores em Brasília/DF.">
-        <meta name="author" content="Thiago Marques">
-        <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-        <link rel="icon" href="/favicon.ico" type="image/x-icon">
 
-        <title>Prefeitura 204 sul</title>
+    <!-- Primary Meta Tags -->
+    <title>Prefeitura da SQS 204</title>
+    <meta name="title" content="Prefeitura da SQS 204">
+    <meta name="description" content="A Prefeitura da SQS 204 é uma associação de moradores com o propósito de criar laços de solidariedade e empatia promovendo a boa convivência entre os moradores.">
+    <meta name="author" content="Thiago Marques">
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
 
-        <!-- CSS FILES -->
-        <link rel="preconnect" href="https://fonts.googleapis.com">
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="http://www.prefeitura204sul.org.br/">
+    <meta property="og:title" content="Prefeitura da SQS 204">
+    <meta property="og:description" content="A Prefeitura da SQS 204 é uma associação de moradores com o propósito de criar laços de solidariedade e empatia promovendo a boa convivência entre os moradores.">
+    <meta property="og:image" content="/image.png">
 
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="http://www.prefeitura204sul.org.br/">
+    <meta property="twitter:title" content="Prefeitura da SQS 204">
+    <meta property="twitter:description" content="A Prefeitura da SQS 204 é uma associação de moradores com o propósito de criar laços de solidariedade e empatia promovendo a boa convivência entre os moradores.">
+    <meta property="twitter:image" content="/image.png">
 
-        <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap"
-            rel="stylesheet">
 
-        <link href="css/bootstrap.min.css" rel="stylesheet">
 
-        <link href="css/bootstrap-icons.css" rel="stylesheet">
 
-        <link href="css/owl.carousel.min.css" rel="stylesheet">
+    <!-- CSS FILES -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
 
-        <link href="css/owl.theme.default.min.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
-        <link href="css/main.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap"
+        rel="stylesheet">
 
-        <link href="css/custom.css" rel="stylesheet">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <link href="css/bootstrap-icons.css" rel="stylesheet">
+
+    <link href="css/owl.carousel.min.css" rel="stylesheet">
+
+    <link href="css/owl.theme.default.min.css" rel="stylesheet">
+
+    <link href="css/main.css" rel="stylesheet">
+
+    <link href="css/custom.css" rel="stylesheet">
 </head>

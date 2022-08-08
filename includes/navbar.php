@@ -26,7 +26,7 @@
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link" href="vida_comunidade.php">Vida em Comunidade</a>
+                            <a class="nav-link" href="vida-comunidade.php">Vida em Comunidade</a>
                         </li>
 
                         <li class="nav-item">
