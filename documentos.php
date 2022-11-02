@@ -17,15 +17,36 @@
                             </thead>
                             <tbody>
                                 <tr>
+                                    <td>Carta-Compromisso com a Comunidade da Asa Sul dos Candidatos a mandatos representativos do DF em 2022</td>
+                                    <td class="text-center">
+                                            <a href="/files/carta_compromisso.pdf" download
+                                            target="_blank" rel="noopener noreferrer"><i class="bi bi-download"></i></a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>CCAS - Demandas Comunitárias da Asa Sul - Versão 2022</td>
+                                    <td class="text-center">
+                                            <a href="/files/CCAS_Demandas_2022.pdf" download
+                                            target="_blank" rel="noopener noreferrer"><i class="bi bi-download"></i></a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Propostas da Comunidade de Brasília ao Governador e Parlamentares do DF - 2023-2026</td>
+                                    <td class="text-center">
+                                            <a href="/files/Propostas_da_Comunidade_de_Brasilia_ao_Governador_e_Parlamentares_do_DF.pdf" download
+                                            target="_blank" rel="noopener noreferrer"><i class="bi bi-download"></i></a>
+                                    </td>
+                                </tr>
+                                <tr>
                                     <td>Ata da Assembléia Geral Extraordinária da SQS 204 - 18/09/2021</td>
-                                    <td class="text-center"><a
-                                            href="files/AGE _PREFEITURA_204_SUL_ELEICAO_E_POSSE_180921.pdf" download
+                                    <td class="text-center">
+                                            <a href="/files/AGE _PREFEITURA_204_SUL_ELEICAO_E_POSSE_180921.pdf" download
                                             target="_blank" rel="noopener noreferrer"><i class="bi bi-download"></i></a>
                                     </td>
                                 </tr>
                                 <tr>
                                     <td>Estatuto da Prefeitura da SQS 204</td>
-                                    <td class="text-center"><a href="files/Estatuto_Prefeitura_204sul.pdf" download
+                                    <td class="text-center"><a href="/files/Estatuto_Prefeitura_204sul.pdf" download
                                             target="_blank" rel="noopener noreferrer"><i class="bi bi-download"></i></a>
                                     </td>
                                 </tr>
@@ -33,13 +54,13 @@
                                     <td>Carta aos moradores e comerciantes da 204 sul - Campanha "Lixo no Lugar Certo"
                                     </td>
                                     <td class="text-center"><a
-                                            href="files/CARTA_AOS_MORADORES_E_COMERCIANTES_DA_204_SUL.pdf" download
+                                            href="/files/CARTA_AOS_MORADORES_E_COMERCIANTES_DA_204_SUL.pdf" download
                                             target="_blank" rel="noopener noreferrer"><i class="bi bi-download"></i></a>
                                     </td>
                                 </tr>
                                 <tr>
                                     <td>Demonstrativo de Receitas e Despesas - out/nov/dez de 2021</td>
-                                    <td class="text-center"><a href="files/Balancetes_10_11_12_2021.pdf" download
+                                    <td class="text-center"><a href="/files/Balancetes_10_11_12_2021.pdf" download
                                             target="_blank" rel="noopener noreferrer"><i class="bi bi-download"></i></a>
                                     </td>
                                 </tr>

@@ -8,6 +8,39 @@
                 <div class="row mb-5">
                     <h4>#Dicas de convivência</h4>
                     <div class="col-lg-6 col-md-5 col-12 mx-auto pb-5 m-0">
+                        <img src="images/comunity/vida-comunidade.jpg" class="img-fluid galleryImage" alt="Vida em comunidade" title="Vida em comunidade">
+                    </div>
+                    <div class="col-lg-6 col-md-7 col-12 mx-auto pl-3 pb-5 pl-3 ml-3">
+                        <h6>A importância da sociabilidade</h6>
+                        <p>Nenhum homem é uma ilha”, já diria John Donne. Ou, numa leitura mais popular, “uma andorinha só não faz verão”.</p>
+                        <span class="small"><a
+                                href="https://agenciaoranges.com.br/a-importancia-da-sociabilidade/"
+                                target="_blank" rel="noopener noreferrer">Veja aqui a reportagem
+                                completa</a><br></span>
+                    </div>
+                </div>
+                <div class="row mb-5">
+                    <h4>#Cuidado com animais</h4>
+                    <div class="col-lg-6 col-md-5 col-12 mx-auto pb-5 m-0">
+                        <video width="580" height="240" controls="controls">
+                            <source src="files/escorpiao.mp4" type="video/mp4">
+                            <object data="" width="580" height="240">
+                            <embed width="580" height="240" src="Yes Bank Advertisment.mp4">
+                            </object>
+                        </video>
+                    </div>
+                    <div class="col-lg-6 col-md-7 col-12 mx-auto pl-3 pb-5 pl-3 ml-3">
+                        <h6>Período de reprodução de escorpiões</h6>
+                        <p>Veja o vídeo abaixo com dicas de proteção.</p>
+                        <span class="small"><a
+                                href="https://www.petz.com.br/blog/bem-estar/gato-fujao-como-evitar-e-o-que-fazer-quando-ele-escapa/"
+                                target="_blank" rel="noopener noreferrer">Veja aqui a reportagem
+                                completa</a><br></span>
+                    </div>
+                </div>
+                <div class="row mb-5">
+                    <h4>#Dicas de convivência</h4>
+                    <div class="col-lg-6 col-md-5 col-12 mx-auto pb-5 m-0">
                         <img src="images/comunity/gato-fujao-pet.jpg" class="img-fluid galleryImage" alt="Gato fujão sentado" title="Gato fujão">
                     </div>
                     <div class="col-lg-6 col-md-7 col-12 mx-auto pl-3 pb-5 pl-3 ml-3">
@@ -26,19 +59,16 @@
                     </div>
                     <div class="col-lg-6 col-md-7 col-12 mx-auto pl-3 pb-5 pl-3 ml-3">
                         <h6>Como separar o lixo em casa de forma adequada</h6>
-                        <p>“Separar o lixo em casa facilita a reciclagem dos materiais nos centros de tratamento e destinação do lixo
-urbano. A separação adequada do lixo impede que os profissionais da limpeza urbana corram riscos à saúde,
-além de evitar a sobrecarga de resíduos nos aterros sanitários”, afirma Maeli Estrela Borges, professora do Curso
-CPT a Distância e Online Aterro Sanitário - Planejamento e Operação.</p>
+                        <p>“Separar o lixo em casa facilita a reciclagem dos materiais nos centros de tratamento e destinação do lixo urbano. A separação adequada do lixo impede que os profissionais da limpeza urbana corram riscos à saúde, além de evitar a sobrecarga de resíduos nos aterros sanitários”, afirma Maeli Estrela Borges, professora do Curso CPT a Distância e Online Aterro Sanitário - Planejamento e Operação.</p>
                         <span class="small"><a
-                                            href="files/Como-separar-o-lixo-em-casa-de-forma-adequada.pdf" download
+                                            href="/files/Como-separar-o-lixo-em-casa-de-forma-adequada.pdf" download
                                             target="_blank" rel="noopener noreferrer"><i class="bi bi-download m-4"></i>Clique aqui para acessar o conteúdo</a><br></span>
                     </div>
                 </div>
                 <div class="row mb-5">
                     <h4>#Cuidado com animais</h4>
                     <div class="col-lg-6 col-md-5 col-12 mx-auto pb-5 m-0">
-                        <img src="images/comunity/cao.png" class="img-fluid galleryImage" alt="Cachorro" title="Imagem">
+                        <img src="images/comunity/cao.png" class="img-fluid galleryImage" alt="Cachorro latindo" title="Cachorro latindo">
                     </div>
                     <div class="col-lg-6 col-md-7 col-12 mx-auto pl-3 pb-5 pl-3 ml-3">
                         <h6>Artigo: Responsabilidade civil do tutor no caso de ataque do seu animal doméstico</h6>
@@ -55,7 +85,7 @@ CPT a Distância e Online Aterro Sanitário - Planejamento e Operação.</p>
                 <div class="row mb-5">
                     <h4>#Cuidado com animais</h4>
                     <div class="col-lg-6 col-md-5 col-12 mx-auto pb-5 m-0">
-                        <img src="images/comunity/lei.png" class="img-fluid galleryImage" alt="Cachorro" title="Imagem">
+                        <img src="images/comunity/lei.png" class="img-fluid galleryImage" alt="Livro jurídico" title="Lei">
                     </div>
                     <div class="col-lg-6 col-md-7 col-12 mx-auto pl-3 pb-5 pl-3 ml-3">
                         <h6>LEI Nº 2.095, DE 29 DE SETEMBRO DE 1998</h6>
@@ -70,8 +100,8 @@ CPT a Distância e Online Aterro Sanitário - Planejamento e Operação.</p>
                 <div class="row mb-5">
                     <h4>#Dicas de convivência</h4>
                     <div class="col-lg-6 col-md-5 col-12 mx-auto pb-5 m-0">
-                        <img src="images/comunity/convivencia.png" class="img-fluid galleryImage" alt="Cachorro"
-                            title="Imagem">
+                        <img src="images/comunity/convivencia.png" class="img-fluid galleryImage" alt="Homem recebendo instruções"
+                            title="Instruções">
                     </div>
                     <div class="col-lg-6 col-md-7 col-12 mx-auto pl-3 pb-5 pl-3 ml-3">
                         <h6>Convivência: 7 dicas para um bom relacionamento com vizinhos</h6>

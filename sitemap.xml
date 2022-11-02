@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+>
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://prefeitura204sul.org.br/</loc>
+  <lastmod>2022-08-08T16:25:47+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<!-- <url>
+  <loc>https://prefeitura204sul.org.br/index.php</loc>
+  <lastmod>2022-08-08T16:25:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url> -->
+<url>
+  <loc>https://prefeitura204sul.org.br/vida-comunidade.php</loc>
+  <lastmod>2022-08-08T16:25:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://prefeitura204sul.org.br/legislacao.php</loc>
+  <lastmod>2022-08-08T16:25:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://prefeitura204sul.org.br/documentos.php</loc>
+  <lastmod>2022-08-08T16:25:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://prefeitura204sul.org.br/blocos.php</loc>
+  <lastmod>2022-08-08T16:25:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://prefeitura204sul.org.br/fotos.php</loc>
+  <lastmod>2022-08-08T16:25:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://prefeitura204sul.org.br/contato.php</loc>
+  <lastmod>2022-08-08T16:25:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc
+    >https://prefeitura204sul.org.br/files/Como-separar-o-lixo-em-casa-de-forma-adequada.pdf</loc>
+  <lastmod>2022-08-03T23:25:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc
+    >https://prefeitura204sul.org.br/files/Estatuto_Prefeitura_204sul.pdf</loc>
+  <lastmod>2022-08-03T23:25:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc
+    >https://prefeitura204sul.org.br/files/AGE%20_PREFEITURA_204_SUL_ELEICAO_E_POSSE_180921.pdf</loc>
+  <lastmod>2022-08-03T23:25:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc
+    >https://prefeitura204sul.org.br/files/CARTA_AOS_MORADORES_E_COMERCIANTES_DA_204_SUL.pdf</loc>
+  <lastmod>2022-08-03T23:25:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://prefeitura204sul.org.br/files/Balancetes_10_11_12_2021.pdf</loc>
+  <lastmod>2022-08-03T23:25:38+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>

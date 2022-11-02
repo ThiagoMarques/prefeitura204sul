@@ -9,7 +9,7 @@
                     <div class="col-lg-3 col-md-3 col-12 mx-auto pb-5 m-0">
                         <h5 class="mb-lg-3 mb-3">Legislação</h5>
                         <p>Estatuto da Prefeitura da SQS 204:</p>
-                        <span class="text-information"><a href="files/Estatuto_Prefeitura_204sul.pdf" download
+                        <span class="text-information"><a href="/files/Estatuto_Prefeitura_204sul.pdf" download
                                 target="_blank" rel="noopener noreferrer">Clique aqui para fazer o download do
                                 estatuto</a><br></span>
                     </div>

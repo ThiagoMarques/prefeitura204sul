@@ -1,6 +1,9 @@
 .bold {
   font-weight: 600 !important;
 }
+.main-text {
+  font-size: 1em !important;
+}
 .navbar {
   padding-top: 5px;
   padding-bottom: 5px;
@@ -156,6 +159,11 @@
 /* Handle on hover */
 .content-feed::-webkit-scrollbar-thumb:hover {
   background: #555;
+}
+
+/* Video */
+.comunidade-video {
+  width: 100%;
 }
 
 @media screen and (max-width: 991px) {

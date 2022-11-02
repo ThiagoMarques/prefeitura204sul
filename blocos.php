@@ -7,7 +7,7 @@
                 <h2 class="mb-lg-5 mb-4">Blocos Associados</h2>
                 <div class="row mb-5">
                     <div class="col-lg-6 col-md-5 col-12 mx-auto pb-5 m-0">
-                        <img src="images/photos/photo_6.jpeg" class="img-fluid galleryImage" alt="Prefeitura"
+                        <img src="images/photos/photo_6.jpeg" class="img-fluid galleryImage" alt="Jardim do Bloco K da SQS 204 sul em Brasília-DF"
                             title="Imagem">
                     </div>
                     <div class="col-lg-6 col-md-7 col-12 mx-auto pl-3 pb-5 pl-3 ml-3">
