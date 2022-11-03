@@ -15,7 +15,6 @@
                             apartamentos e os demais 48.</p>
                         <p class="pb-2">Os blocos associados a Prefeitura da SQS 204:</p>
                         <ul class="list-res m-0">
-                            <li>Bloco A/E</li>
                             <li>Bloco B</li>
                             <li>Bloco C</li>
                             <li>Bloco D</li>
